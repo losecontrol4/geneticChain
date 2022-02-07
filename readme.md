@@ -1,0 +1,1 @@
+To run this program you must have NodeJS installed on your machine. To install, follow one of the many helpful guides on the internet. Once Node JS is installed, run the program by typing this while in this folder's directory: "node genChainAdamHall.js [Argument]" Argument can be any integer value above 0.
